@@ -1,3 +1,5 @@
+package HDT8;
+
 public class TreeNode<P, V> {
 
 	private P _priority;
