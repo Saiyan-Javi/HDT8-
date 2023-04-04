@@ -1,5 +1,7 @@
 package HDT8;
-
+/**
+ * Gets y sets de namer
+ */
 public class Namer {
     
 // Declaring the variables that will be used in the program.

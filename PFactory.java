@@ -1,5 +1,7 @@
 package HDT8;
-
+/**
+ * Separa las álabras hasta llegar a la coma
+ */
 public class PFactory extends Namer{
     public PFactory(String s){
 

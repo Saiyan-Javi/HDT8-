@@ -2,7 +2,9 @@ package HDT8;
 
 import java.util.ArrayList;
 import java.util.Comparator;
-
+/**
+ * Crea el arbol e inserta los hijos de cada nodo
+ */
 public class HeapUsingIterativeBinaryTree<P, V> implements IHeap<P, V> {
 
 	private int _count;

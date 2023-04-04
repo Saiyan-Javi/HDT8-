@@ -1,7 +1,7 @@
 package HDT8;
 
 import java.util.Comparator;
-
+//* */
 public class ComparadorNumeros<Integer> implements Comparator<Integer> {
 
 	@Override
