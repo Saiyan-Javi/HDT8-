@@ -1,0 +1,2 @@
+vi,juan02,0
+vd,juaco01,10
